@@ -1,5 +1,9 @@
 # Tic Tac Toe
 
+![game](printscreens/game.png)
+
+![tie](printscreens/tie.png)
+
 ## Story
 
 In this project your job is to implement [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) for two players.
